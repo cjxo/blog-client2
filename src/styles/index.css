@@ -12,8 +12,14 @@
 }
 
 :root {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Lora", Helvetica, Arial, sans-serif;
   line-height: 1.5;
+
+  --black0: #1a1a1d;
+  --gray0: #4e4e50;
+  --red0: #6f2232;
+  --red1: #950740;
+  --red2: #c3073f;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

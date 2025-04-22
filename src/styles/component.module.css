@@ -1,0 +1,18 @@
+.buttonImg {
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.sideBar {
+  padding: 14px;
+  background-color: var(--black0);
+
+  display: flex;
+  justify-content: space-between;
+  
+  h1.logo {
+    color: var(--red2);
+  }
+}
